@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" role="img" aria-label="APO round logo black and white">
+  <title>APO Round Logo 32×32 (Black &amp; White)</title>
+  <circle cx="16" cy="16" r="16" fill="#000"/>
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
+        font-family="DejaVu Sans, Arial, Helvetica, sans-serif"
+        font-size="14.5" font-weight="800" fill="#fff" letter-spacing="0.4">
+    APO
+  </text>
+</svg>
